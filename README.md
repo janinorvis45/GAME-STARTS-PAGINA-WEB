@@ -1,25 +1,27 @@
-JAMEKO AND MIQUEL
-PERSONAJES:
-1O:JUGADOR(TU)
-2O:JAMEKO(personaje principal)
-3O:MIQUEL(personaje principal)
-4O:CREADOR
-5O:CHEF CAKE CARROT
-6O:JAMEKO FUSIONADO CON MIQUEL(capitulo 2)
-y mas
-juega ya!!!
-no ay nada que perder escepto la vida!!!
-creadores(colaboradores)
-1:jan
-2:miquel
-3:gina
-4:romeo
-5:elsa
-6:mia
-7:hugo
-8:samuel
-9:leonardo
-y muchos mas!!!
-spoyler:FECHA/12/7/28 O 29
-HECO POR JAN colaborado por gina.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Starts.com</title>
+
+    <h1 class="color1">Game Starts</h1>
+    <h2>personajes p:</h2>
+    <h3>jameko</h3>
+    <h3>miquel</h3>
+    <h3>jugador</h3>
+    <h4>creador
+        <h4>chef cake carrot
+
+        </h4>
+    </h4>
+    <h4>estos son los personajes de jameko and miquel</h4>
+    <p>echo por :jan colaborado por :gina</p>
+</head>
+<body>
+    
+</body>
+</html>
+
+
 
